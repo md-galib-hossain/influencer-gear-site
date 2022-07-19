@@ -51,7 +51,7 @@ nav li a {
   background-color: #e02c6d;
   color: white;
   padding: 7px 14px;
-  border-radius: 18px;
+  border-radius: 20px;
   font-family: "Poppins", sans-serif;
   margin-top: 10px;
 }
@@ -62,4 +62,11 @@ nav li a {
   width: 70%;
   /* padding-top: 30px;*/
   padding-left: 130px;
+}
+.brands-logo {
+  margin-top: 130px;
+  padding: 20px 30px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
